@@ -1,0 +1,20 @@
+{
+  "source_artifact": "reference/original_submission.py",
+  "original_filename": "CD.py",
+  "sha256": "12601a42a9b301aba703108bcdf57cbe2792688b93fa0210021dd5d8e5b096a1",
+  "extracted_attack_sha256": "f55307f32de9ccafe587e35e869bebe00fdba2fc541f1d18ea612025df7d90f2",
+  "modules": {
+    "src.attacks.v312_gpt_nonmarker_k1_opt_lab": "f985be7cc1c68576ac4c10df0877e7ea547e5f86e45ea222382a45211f45a8c7",
+    "src.attacks.v312_nonmarker_k4_loop_lab": "9f0908c4412bd7571cb2bab5b5ed04799b1b827044937c17e89c1e516ed76661",
+    "src.attacks.v312_gpt_nonmarker_k1_lab": "9ba4f16a076b189548672b50a5c6481fe1f81e4837a99f2c7156f9fe0d0b3a05",
+    "src.attacks.v312_gpt_nonmarker_k4_raws_lab": "6920146761b4f51118c19ad374f07c0ab429d96ff9575cea55d4503279414d3c",
+    "src.attacks.v312_pb_hedge_gptmail_gemma_blockmarker": "70d6dbfc7d8d1b172e77db199afc5d834dcf7d48d972d9d19f8fd64cdef34292"
+  },
+  "extraction": "Python AST literal extraction; no source execution",
+  "result": {
+    "medal": "Silver",
+    "team_rank": 58,
+    "teams": 4186
+  },
+  "result_source": "Participant-confirmed team result; not recomputed by local checks"
+}
